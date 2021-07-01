@@ -1,2 +1,2 @@
-# La santafecina
+= La santafecina
 La empresa de alimentos “La Santafesina” posee una flota de transportes para trasladar sus productos desde su origen hacia sus centros de distribución. Realiza la entrega de mercadería solicitada a distintos puntos del país. Necesita automatizar las operaciones y consultas habituales que responden a las actividades de carga y entrega de la mercadería. Los transportes que utiliza la empresa son camión Trailer, camión MegaTrailer y Flete. Se entrega mercadería a diferentes destinos del país, tal que cada transporte lleva su carga completa a ese destino. Aunque puede ser que haya más de un transporte llevando pedidos al mismo destino.
